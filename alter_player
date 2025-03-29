@@ -1,0 +1,2 @@
+6.We have to store the strike_rate of players in the database. Make necessary changes to the existing player table to store the data.
+Note: Name the column as strike_rate. It is measured in decimals.
