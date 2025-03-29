@@ -1,0 +1,9 @@
+2.In a typical e-commerce application, we need to store the following customer details. Create a customer table to store the data.
+
+details	datatype
+customer_id	integer
+first_name	string of max length 200
+last_name	string of max length 200
+date_of_birth	date
+address	text
+phone_number	integer
