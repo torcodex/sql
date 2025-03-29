@@ -1,0 +1,11 @@
+
+5.The database contains a player table that stores the name, age and score of players.
+
+Get all the players from theplayertable in the following format.
+
+Expected Output Format:
+
+name	age	score
+Suresh	21	70
+Venkat	21	43
+---	---	---
