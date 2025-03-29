@@ -1,0 +1,4 @@
+1.A new player has joined the tournament. Write an SQL query to add the the following details to the player table.
+
+name	age	score
+Raj	26	120
