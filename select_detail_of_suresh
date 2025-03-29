@@ -1,0 +1,6 @@
+6.Get all the details of "Suresh" from the player table in the following format.
+
+Expected Output Format:
+
+name	age	score
+Suresh	21	70
