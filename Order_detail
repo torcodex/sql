@@ -1,0 +1,8 @@
+3.We need to store the details of orders in an e-commerce application. Create an order_details table to store the following details.
+
+details	datatype
+order_id	integer
+customer_id	integer
+order_datetime	datetime
+shipped_datetime	datetime
+total_amount	float
