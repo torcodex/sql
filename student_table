@@ -1,0 +1,6 @@
+1.Create a student table to store name, age and score of students.
+
+details	datatype
+name	string of max length 200
+age	integer
+score	integer
