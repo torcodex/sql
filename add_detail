@@ -1,0 +1,7 @@
+2.Three new players have joined the tournament.
+Write a SQL query to add the the following details of players to the player table.
+
+name	age	score
+Ram	28	125
+Charan	25	173
+Ravan	20	152
