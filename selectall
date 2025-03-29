@@ -1,0 +1,8 @@
+3.Get all the details of the players from the player table.
+
+Expected Output Format:
+
+name	age	score
+Ram	24	10
+Suresh	21	9
+---	---	---
