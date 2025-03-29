@@ -1,0 +1,3 @@
+7.Get the products whose name matches the following pattern:
+
+name ends with at least four characters,Out of the last 4 characters, first character is "h" and the third character is "r".
